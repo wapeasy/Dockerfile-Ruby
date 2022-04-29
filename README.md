@@ -1,3 +1,3 @@
 # Ruby-Dockerfile  
 
-# `Ruby`的`Docker`环境  
+`Ruby`的`Docker`环境  
